@@ -27,4 +27,4 @@ jobs:
         java-version: '17'
         distribution: 'adopt'
     - name: tests
-      run: mvn --batch-mode --update-snapshots test
+      run: mvn --batch-mode --update-snapshots package
