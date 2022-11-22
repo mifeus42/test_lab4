@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.easytesting:fest-swing:1.2rc">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/easytesting/fest-swing/1.2rc/fest-swing-1.2rc.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/easytesting/fest-swing/1.2rc/fest-swing-1.2rc-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/easytesting/fest-swing/1.2rc/fest-swing-1.2rc-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

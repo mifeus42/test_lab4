@@ -1,14 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f947287c-e8d8-4ab4-ae21-564f023966ec" name="Changes" comment="" />
+    <list default="true" id="f947287c-e8d8-4ab4-ae21-564f023966ec" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/test/.idea/libraries/Maven__junit_junit_4_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/.idea/libraries/Maven__net_jcip_jcip_annotations_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/.idea/libraries/Maven__org_easytesting_fest_assert_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/.idea/libraries/Maven__org_easytesting_fest_reflect_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/.idea/libraries/Maven__org_easytesting_fest_swing_1_2rc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/.idea/libraries/Maven__org_easytesting_fest_util_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/.idea/libraries/Maven__org_mockito_mockito_core_1_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/.idea/libraries/Maven__org_objenesis_objenesis_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/.idea/libraries/Maven__cglib_cglib_nodep_2_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/.idea/libraries/Maven__commons_codec_commons_codec_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/.idea/libraries/Maven__junit_junit_4_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/.idea/libraries/Maven__org_apache_ant_ant_1_7_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/.idea/libraries/Maven__org_apache_ant_ant_junit_1_7_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/.idea/libraries/Maven__org_apache_ant_ant_launcher_1_7_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/.idea/libraries/Maven__org_easymock_easymock_2_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/Desktop.iml" beforeDir="false" afterPath="$PROJECT_DIR$/test/Desktop.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/main/java/test/CalculatorViewTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/test/CalculatorViewTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/main/java/test/lab2/CalculatorPresenterTestException.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/test/CalculatorPresenterTestException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/main/java/test/lab2/CalculatorPresenterTestUnit.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/test/CalculatorPresenterTestUnit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/main/java/test/lab2/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/test/CalculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/main/java/test/lab3/CalculatorViewTestDivideException.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/test/CalculatorViewTestDivideException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/main/java/test/lab3/CalculatorViewTestOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/test/CalculatorViewTestOperations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/main/java/test/lab3/CalculatorViewTestResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/test/CalculatorViewTestResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/main/java/test/lab3/CalculatorViewTestStringExceptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/test/CalculatorViewTestStringExceptions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/out/production/Desktop/ru/miet/testing/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/out/production/Desktop/ru/miet/testing/model/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/out/production/Desktop/ru/miet/testing/model/ICalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/out/production/Desktop/ru/miet/testing/presenter/CalculatorPresenter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/out/production/Desktop/ru/miet/testing/presenter/ICalculatorPresenter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/out/production/Desktop/ru/miet/testing/view/CalculatorView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/out/production/Desktop/ru/miet/testing/view/ICalculatorView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/out/production/Desktop/test/CalculatorViewTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/out/production/Desktop/test/lab2/CalculatorPresenterTestException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/out/production/Desktop/test/lab2/CalculatorPresenterTestUnit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/out/production/Desktop/test/lab2/CalculatorTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/out/production/Desktop/test/lab3/CalculatorViewTestDivideException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/out/production/Desktop/test/lab3/CalculatorViewTestOperations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/out/production/Desktop/test/lab3/CalculatorViewTestResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/out/production/Desktop/test/lab3/CalculatorViewTestStringExceptions.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/test" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="2GdKnBC0pBNSXyvRLe2QXXM59lv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -30,5 +75,16 @@
       <updated>1666713188332</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
