@@ -6,14 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Desktop" />
+        <module name="test" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="calc" target="17" />
-      <module name="Desktop" target="17" />
-      <module name="fest-swing" target="1.5" />
-      <module name="fest-swing-junit" target="1.5" />
-    </bytecodeTargetLevel>
   </component>
 </project>
